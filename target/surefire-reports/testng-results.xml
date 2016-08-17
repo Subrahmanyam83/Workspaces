@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestFirefoxlauncher" duration-ms="19593" started-at="2016-08-17T10:43:04Z" finished-at="2016-08-17T10:43:23Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="19593" started-at="2016-08-17T10:43:04Z" finished-at="2016-08-17T10:43:23Z">
+      <class name="TestFirefoxlauncher">
+        <test-method status="PASS" signature="browserLauncher()[pri:0, instance:TestFirefoxlauncher@60addb54]" name="browserLauncher" duration-ms="19440" started-at="2016-08-17T16:13:04Z" finished-at="2016-08-17T16:13:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLauncher -->
+        <test-method status="PASS" signature="searchTheWord()[pri:0, instance:TestFirefoxlauncher@60addb54]" name="searchTheWord" duration-ms="142" started-at="2016-08-17T16:13:23Z" finished-at="2016-08-17T16:13:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTheWord -->
+      </class> <!-- TestFirefoxlauncher -->
+    </test> <!-- Command line test -->
+  </suite> <!-- TestFirefoxlauncher -->
+</testng-results>
